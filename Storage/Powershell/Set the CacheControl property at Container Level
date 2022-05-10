@@ -1,4 +1,4 @@
-#The below PowerShell script helps to Sets the CacheControl property for all the Blobs within the Container.
+#The below PowerShell script helps to sets the CacheControl property for all the Blobs within the Container.
 
 
 
